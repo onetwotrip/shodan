@@ -46,7 +46,7 @@
     "moment": "~2.24.0",
     "mysql": "~2.18.1",
     "passport": "~0.4.1",
-    "passport-google-oauth": "^1.0.0",
+    "passport-google-oauth20": "~2.0.0",
     "passport.socketio": "~3.7.0",
     "performance-now": "~2.1.0",
     "slack": "^11.0.2",
